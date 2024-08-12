@@ -5,3 +5,4 @@ response = client.terminate_instance(
 		'i-035dfdfd54343sdfsdf43'
 ],
 )
+Hi
